@@ -59,6 +59,6 @@ $ uname -a
 
 <div align="center">
 
-*redes, tráfego e falhas — cada camada entendida é um passo para o outro lado.*
+*Understanding the normal is what makes the abnormal visible.*
 
 </div>
