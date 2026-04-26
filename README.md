@@ -11,10 +11,11 @@ C:\> kxsisz_
 ---
 
 ```bash
-$ whoami
-> security student. blue team oriented.
+$ Blue team practitione
+> security student, blue team oriented.
 > focused on detection, monitoring and log analysis.
 > interested in how systems behave — normal and abnormal.
+> hands-on detection & investigation scenarios
 ```
 
 ---
@@ -42,8 +43,8 @@ $ cat labs/tryhackme
 
 ```ini
 [goals]
-target    = soc analyst
-building  = detection · analysis · response
+target    = SOC analyst
+building  = detection engineering + incident response
 status    = in progress
 ```
 
